@@ -119,6 +119,10 @@
      ]
     },
     {
+      "title":"Data science",
+      "subskills":["R","SAS","Python","Hadoop","SQL/NoSQL databases"]
+    },
+    {
      "title": "Frontend",
      "subskills": [
       "HTML5",
@@ -163,6 +167,13 @@
      "scope": "Canadian Research Chaire on Digital Textualities",
      "version": "v0.9.0",
      "link": "http://anthologia.ecrituresnumeriques.ca/"
+    },
+    {
+      "title": "openRaid",
+      "description": "Online Raid/party management for World of Warcraft",
+      "scope": "Personal",
+      "version": "v.0.6.0",
+      "link": "https://github.com/PookMook/openRaid"
     },
     {
      "title": "Me.js",
